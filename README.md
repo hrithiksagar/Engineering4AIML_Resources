@@ -8,3 +8,6 @@
     - This is my notes of transformer decoder architecture taught by CampusX youtuber
     - Playlist link: https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=wgG9P3JcySfX5YPu
 
+
+Notes from Group folder:
+    - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
