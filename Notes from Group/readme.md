@@ -7,3 +7,5 @@ Notes from Group folder:
         -   A very intuitive way of understanding vector embeddings in general, their strengths and weaknesses. One thing that I liked about the article a lot is that they use an actual example instead of just doing theory.
     3. Notes from Group/3. DeepSpeed Under the Hood_ Revolutionising AI with Large-Scale Model Training _ by Srikaran _ Medium.pdf
         -   A brilliant guide on how large scale training works.
+    4. Notes from Group/4. Making Deep Learning go Brrrr From First Principles.pdf
+        -   A shorter, but much more intuitive guide on how GPU's in general work. A Real Eye Opener, the analogies are 😍
