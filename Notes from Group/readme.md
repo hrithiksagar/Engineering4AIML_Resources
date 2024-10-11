@@ -10,4 +10,4 @@ Notes from Group folder:
     4. Notes from Group/4. Making Deep Learning go Brrrr From First Principles.pdf
         -   A shorter, but much more intuitive guide on how GPU's in general work. A Real Eye Opener, the analogies are 😍
     5. Linkedin Article : https://www.linkedin.com/posts/vaibhavs10_rhymesai-released-aria-multimodal-moe-activity-7250074608962297856-c5EP?utm_source=share&utm_medium=member_desktop
-        -  ARIA, a multimodal model for emotion recognition, released by RhymesAI
+        -  ARIA, a multimodal model for emotion recognition, released by RhymesAI\

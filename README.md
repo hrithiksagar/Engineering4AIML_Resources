@@ -8,6 +8,9 @@
     - This is my notes of transformer decoder architecture taught by CampusX youtuber
     - Playlist link: https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=wgG9P3JcySfX5YPu
 
+3. QWEN2.5 Blog 
+    - this is the blog notes of QWEN2.5 blog, which is a very good blog for understanding transformer architecture. link: https://qwen2.org/qwen2-5/ 
+
 
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
