@@ -5,3 +5,36 @@
     - UIUC GPU Course: http://gputeachingkit.hwu.crhc.illinois.edu/ - works on DNS or VPN
 
 2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

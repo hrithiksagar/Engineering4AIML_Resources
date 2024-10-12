@@ -10,7 +10,8 @@
 
 3. QWEN2.5 Blog 
     - this is the blog notes of QWEN2.5 blog, which is a very good blog for understanding transformer architecture. link: https://qwen2.org/qwen2-5/ 
-
+4. QWEN2 VL 11 Oct 2024.pdf
+    - this is the blog notes of QWEN2 VL blog, which is a very good blog for understanding transformer architecture. link: https://qwen2.org/vl/ 
 
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
