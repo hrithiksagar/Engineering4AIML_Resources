@@ -11,3 +11,6 @@ Notes from Group folder:
         -   A shorter, but much more intuitive guide on how GPU's in general work. A Real Eye Opener, the analogies are 😍
     5. Linkedin Article : https://www.linkedin.com/posts/vaibhavs10_rhymesai-released-aria-multimodal-moe-activity-7250074608962297856-c5EP?utm_source=share&utm_medium=member_desktop
         -  ARIA, a multimodal model for emotion recognition, released by RhymesAI\
+
+    6. How to Reduce the Cost of Evaluating LLM Applications. _ Towards Data Science.pdf
+        -   Shared by Ravi Kiran sir to understand the cost of evaluating LLM applications...
