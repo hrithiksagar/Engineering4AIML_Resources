@@ -17,6 +17,10 @@
 5. 5. Transformers inferebce  optimization 14 Oct 2024.pdf  
     -  These are my notes from the article, For additional understanding of the Transformer optimization domain: 
     -  Link: https://astralord.github.io/posts/transformer-inference-optimization-toolset/  
+6. 6. how does quantization work.pdf
+    - Link: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization#%C2%A7the-era-of-bit-llms-bitnet
+    - Notion link: https://www.notion.so/3-How-does-quantization-work-11ff92be362680b0bab1d56197be9018?pvs=4
+    
 
 
 Notes from Group folder:
