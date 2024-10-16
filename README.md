@@ -21,7 +21,8 @@
     - Link: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization#%C2%A7the-era-of-bit-llms-bitnet
     - Notion link: https://www.notion.so/3-How-does-quantization-work-11ff92be362680b0bab1d56197be9018?pvs=4
     
-
+7. 7. QLORA.txt
+    - How does QLORA and Quantization works. 
 
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.

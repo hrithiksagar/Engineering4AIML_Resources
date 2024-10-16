@@ -1,0 +1,3 @@
+- [ ]  https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/
+- [ ]  https://medium.com/@dillipprasad60/qlora-explained-a-deep-dive-into-parametric-efficient-fine-tuning-in-large-language-models-llms-c1a4794b1766
+- [ ]  https://lightning.ai/pages/community/lora-insights/
