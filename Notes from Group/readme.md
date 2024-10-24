@@ -23,3 +23,7 @@ Notes from Group folder:
     9. Machine learning Engineering Book:
         - https://huggingface.co/stas/ml-engineering-book/blob/main/Stas%20Bekman%20-%20Machine%20Learning%20Engineering.pdf 
         - If you've followed the previous blogs, that I sent, you should be in a good position to understand this, it is a lot more practical guide to training large models. Every, word in the book is pure gold
+    10. The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities
+    - https://www.arxiv.org/abs/2408.13296
+    - 114 pages 
+    
