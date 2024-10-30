@@ -32,5 +32,9 @@
 
 8. Deployment of models:
     - <Link> 
+
+8. Asychronous Functions - My notes
+    - https://youtu.be/Qb9s3UiMSTA    
+    
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
