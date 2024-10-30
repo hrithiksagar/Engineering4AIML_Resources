@@ -26,4 +26,6 @@ Notes from Group folder:
     10. The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities
     - https://www.arxiv.org/abs/2408.13296
     - 114 pages 
-    
+    11. 11. EDA Article from RaviKiran sir
+    12. https://youtu.be/ZaQYM-YF1rM - Yann Dubois: Scalable Evaluation of Large Language Models
+
