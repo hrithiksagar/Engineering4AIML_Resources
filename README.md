@@ -35,6 +35,12 @@
 
 8. Asychronous Functions - My notes
     - https://youtu.be/Qb9s3UiMSTA    
+9. Mixture of Experts - Mixtral 8*22B 
+10. Stanford LLM Lecture:
+    - https://www.youtube.com/watch?v=9vM4p9NN0Ts&pp=ygUVU3RhbmZvcmQgbGxhbWEgY291cnNl 
+    - 10. Stanford CS229 LLM Lecture Notes.jpg
+11. Let's build the GPT Tokenizer
+    - https://youtu.be/zduSFxRajkE 
     
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
