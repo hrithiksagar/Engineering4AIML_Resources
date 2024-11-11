@@ -41,6 +41,12 @@
     - 10. Stanford CS229 LLM Lecture Notes.jpg
 11. Let's build the GPT Tokenizer
     - https://youtu.be/zduSFxRajkE 
+
+12. LLAMA 3.1 Notes
+    - File: Research Papers/LLAMA 3.1 Paper.pdf
+
+13. GPT 1 Paper Notes
+    - Research Papers/Papers Shared by a peer in CVIT/1. GPT 1 language_understanding_paper.pdf 
     
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
