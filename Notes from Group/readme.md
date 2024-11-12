@@ -28,4 +28,7 @@ Notes from Group folder:
     - 114 pages 
     11. 11. EDA Article from RaviKiran sir
     12. https://youtu.be/ZaQYM-YF1rM - Yann Dubois: Scalable Evaluation of Large Language Models
+    13. Stanford CS229 Machine Learning Handwritten Notes
+        - https://www.linkedin.com/posts/devansh-chaudhary-6b8905290_stanford-cs229-handwritten-notes-devansh-activity-7258425308834377728-PxMc?utm_source=share&utm_medium=member_desktop 
+    
 
