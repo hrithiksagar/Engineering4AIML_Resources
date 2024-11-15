@@ -47,6 +47,27 @@
 
 13. GPT 1 Paper Notes
     - Research Papers/Papers Shared by a peer in CVIT/1. GPT 1 language_understanding_paper.pdf 
+
+14. Reproducing GPT 2 from scratch - Youtube Resource From Andrej Karpathy
+    - https://youtu.be/l8pRSuU81PU
+    - My GitHub Repository of this course: https://github.com/hrithiksagar/Reproducing-GPT-2
+
+15. Attention is all you need paper line to line implimentation by Harvard NLP
+    -  https://nlp.seas.harvard.edu/annotated-transformer/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 Notes from Group folder:
     - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
