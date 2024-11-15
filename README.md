@@ -52,7 +52,7 @@
     - https://youtu.be/l8pRSuU81PU
     - My GitHub Repository of this course: https://github.com/hrithiksagar/Reproducing-GPT-2
 
-15. Attention is all you need paper line to line implimentation by Harvard NLP
+15. Attention is all you need paper line to line implementation by Harvard NLP
     -  https://nlp.seas.harvard.edu/annotated-transformer/ 
 
 
