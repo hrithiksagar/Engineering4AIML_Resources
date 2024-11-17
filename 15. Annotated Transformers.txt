@@ -1,0 +1,2 @@
+15. Attention is all you need paper line to line implementation by Harvard NLP
+    -  https://nlp.seas.harvard.edu/annotated-transformer/ 
