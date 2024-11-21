@@ -1,4 +1,12 @@
 # ML-Notes
+Other folder: 
+Notes from Group folder:
+    - This is the notes from the group at IIIT hyderabad, they are very good and well explained.
+Books:
+    - 
+Research Papers
+    - 
+
 
 1. Flash Attention [Path: Flash Attention - Stanford [7 Oct 24].pdf]
     - This is a stanford lecture, part of ML Systems Course, video on Flash Attention by official developers of Flash Attention. 
@@ -67,7 +75,4 @@
 
 
 
-
     
-Notes from Group folder:
-    - this is the notes from the group at IIIT hyderabad, they are very good and well explained.
