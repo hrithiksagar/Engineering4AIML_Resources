@@ -1,5 +1,5 @@
 # ML-Notes
-Other folder: 
+Other folders: 
 
     Notes from Group folder:
         - This is the notes from the group at IIIT hyderabad, they are very good and well explained.
