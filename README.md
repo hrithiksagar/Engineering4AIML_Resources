@@ -1,15 +1,12 @@
 # ML-Notes
 Other folder: 
 
-Notes from Group folder:
-
-    - This is the notes from the group at IIIT hyderabad, they are very good and well explained.
-Books:
-
-    - This folder contains some important books
-Research Papers
-
-    - This folder contains the research papers which are useful for Multimodal Large Language building with Highloghts after reading
+    Notes from Group folder:
+        - This is the notes from the group at IIIT hyderabad, they are very good and well explained.
+    Books:
+        - This folder contains some important books
+    Research Papers
+        - This folder contains the research papers which are useful for Multimodal Large Language building with Highloghts after reading
 
 
 1. Flash Attention [Path: Flash Attention - Stanford [7 Oct 24].pdf]
