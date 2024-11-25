@@ -61,7 +61,9 @@ Other folders:
     - My GitHub Repository of this course: https://github.com/hrithiksagar/Reproducing-GPT-2
 
 15. Attention is all you need paper line to line implementation by Harvard NLP
-    -  https://nlp.seas.harvard.edu/annotated-transformer/ 
+    -  https://nlp.seas.harvard.edu/annotated-transformer/
+   
+16. CS336 - https://stanford-cs336.github.io/spring2024/ 
 
 
 
