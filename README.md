@@ -63,7 +63,9 @@ Other folders:
 15. Attention is all you need paper line to line implementation by Harvard NLP
     -  https://nlp.seas.harvard.edu/annotated-transformer/
    
-16. CS336 - https://stanford-cs336.github.io/spring2024/ 
+16. CS336 - https://stanford-cs336.github.io/spring2024/
+17. Machine Learning using PyTorch -> PyTorch from Scratch.
+    - https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=kLW8nJ46EMJS0KsW
 
 
 
