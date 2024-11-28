@@ -66,17 +66,7 @@ Other folders:
 16. CS336 - https://stanford-cs336.github.io/spring2024/
 17. Machine Learning using PyTorch -> PyTorch from Scratch.
     - https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=kLW8nJ46EMJS0KsW
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+18. DVC - Data Control, Data Versoning
+    - https://dvc.org/doc#__rq_marker=https://dvc.org/doc
+19. CampusX Deep Learning playlist
+    - https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=rNoIWmMbbgtE9hZs 
