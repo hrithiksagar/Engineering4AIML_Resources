@@ -74,4 +74,6 @@ Other folders:
           3. Autograd
           4. Testing the past ones on a small project - Breast Cancer Dataset
 20. https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/ 
-
+    - LLAMA 3.2 vision paper/blog
+21. 3Blue1Brown Transformers videos and Neural Networks Playlist 
+    - https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=xotJ18sdi7U8HHwO 
