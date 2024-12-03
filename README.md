@@ -34,7 +34,6 @@ Other folders:
         - https://medium.com/@dillipprasad60/qlora-explained-a-deep-dive-into-parametric-efficient-fine-tuning-in-large-language-models-llms-c1a4794b1766
         - https://lightning.ai/pages/community/lora-insights/
         
-    
 7. 7. QLORA.txt
     - How does QLORA and Quantization works. 
 
@@ -69,4 +68,10 @@ Other folders:
 18. DVC - Data Control, Data Versoning
     - https://dvc.org/doc#__rq_marker=https://dvc.org/doc
 19. CampusX Deep Learning playlist
-    - https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=rNoIWmMbbgtE9hZs 
+    - https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=rNoIWmMbbgtE9hZs
+          1. Intro
+          2. Functions
+          3. Autograd
+          4. Testing the past ones on a small project - Breast Cancer Dataset
+20. https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/ 
+
