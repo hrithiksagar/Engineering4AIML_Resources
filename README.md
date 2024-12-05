@@ -78,4 +78,5 @@ Other folders:
 21. 3Blue1Brown Transformers videos and Neural Networks Playlist 
     - https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=xotJ18sdi7U8HHwO 
 
-22. 
+22. Ray Serve - Serving ML models and complete pipeline
+    - https://docs.ray.io/en/latest/serve/getting_started.html
