@@ -77,3 +77,5 @@ Other folders:
     - LLAMA 3.2 vision paper/blog
 21. 3Blue1Brown Transformers videos and Neural Networks Playlist 
     - https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=xotJ18sdi7U8HHwO 
+
+22. 
