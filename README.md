@@ -73,6 +73,7 @@ Other folders:
           2. Functions
           3. Autograd
           4. Testing the past ones on a small project - Breast Cancer Dataset
+          5. NN Module - Released 6th Dec 
 20. https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/ 
     - LLAMA 3.2 vision paper/blog
 21. 3Blue1Brown Transformers videos and Neural Networks Playlist 
