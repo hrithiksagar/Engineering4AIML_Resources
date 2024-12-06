@@ -80,3 +80,10 @@ Other folders:
 
 22. Ray Serve - Serving ML models and complete pipeline
     - https://docs.ray.io/en/latest/serve/getting_started.html
+
+23. RAG guide  
+        - https://zilliz.com/learn/Retrieval-Augmented-Generation
+    RAG Chunking: 
+        - https://www.pinecone.io/learn/chunking-strategies/
+        - https://docs.llamaindex.ai/en/stable/optimizing/production_rag/
+        - https://www.youtube.com/watch?v=8OJC21T2SL4
