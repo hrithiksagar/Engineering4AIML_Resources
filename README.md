@@ -88,3 +88,5 @@ Other folders:
         - https://www.pinecone.io/learn/chunking-strategies/
         - https://docs.llamaindex.ai/en/stable/optimizing/production_rag/
         - https://www.youtube.com/watch?v=8OJC21T2SL4
+24. LLAMA 3.3 
+    - https://medium.com/majordigest/metas-llama-3-3-the-evolution-of-open-source-large-language-models-c9395bde587b
