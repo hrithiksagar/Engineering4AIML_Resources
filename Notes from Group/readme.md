@@ -32,6 +32,7 @@ Notes from Group folder:
     - https://www.linkedin.com/posts/devansh-chaudhary-6b8905290_stanford-cs229-handwritten-notes-devansh-activity-7258425308834377728-PxMc?utm_source=share&utm_medium=member_desktop
 14. Docker AI Stack
     - https://www.docker.com/static/gen-ai-stack-how-to-build-your-own-article.pdf
-
+15. https://x.com/deedydas/status/1869948393474404370?t=2pgbfZljg3kgUi9oqwSotQ&s=08
+    - By Kesav, Tiktok's Monolith paper
 
 
