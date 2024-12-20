@@ -90,3 +90,9 @@ Other folders:
         - https://www.youtube.com/watch?v=8OJC21T2SL4
 24. LLAMA 3.3 
     - https://medium.com/majordigest/metas-llama-3-3-the-evolution-of-open-source-large-language-models-c9395bde587b
+
+25. https://stanford-cs336.github.io/spring2024/
+    - Stanford CS336 Course
+
+26. 16. GAN LSTM RNN CNN architectures 20 Dec 2023.pdf 
+    1.  Hand written notes for these topics
