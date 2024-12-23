@@ -36,3 +36,6 @@ Notes from Group folder:
     - By Kesav, Tiktok's Monolith paper
 16. https://www.linkedin.com/posts/bastyajayshenoy_genai-and-the-need-for-reinforcement-learning-activity-7275368358374514688-yaUN?utm_source=share&utm_medium=member_desktop
 17. https://www.linkedin.com/posts/ihitsuperhuman_interviewexperiences-ml-swe-activity-7276618441170567168-n1HF?utm_source=share&utm_medium=member_desktop 
+- A really good guide to how the industry is asking questions. 2 main standouts:
+1.⁠ ⁠C++ seems to be kind of important
+2.⁠ ⁠DSA proficiency is a must
