@@ -96,3 +96,4 @@ Other folders:
 
 26. 16. GAN LSTM RNN CNN architectures 20 Dec 2023.pdf 
     1.  Hand written notes for these topics
+27. 17. Cornell Univ Bias Variance tradeoff.pdf
