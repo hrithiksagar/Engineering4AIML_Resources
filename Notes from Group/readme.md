@@ -35,4 +35,4 @@ Notes from Group folder:
 15. https://x.com/deedydas/status/1869948393474404370?t=2pgbfZljg3kgUi9oqwSotQ&s=08
     - By Kesav, Tiktok's Monolith paper
 16. https://www.linkedin.com/posts/bastyajayshenoy_genai-and-the-need-for-reinforcement-learning-activity-7275368358374514688-yaUN?utm_source=share&utm_medium=member_desktop
-17. 
+17. https://www.linkedin.com/posts/ihitsuperhuman_interviewexperiences-ml-swe-activity-7276618441170567168-n1HF?utm_source=share&utm_medium=member_desktop 
