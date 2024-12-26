@@ -38,5 +38,9 @@ Notes from Group folder:
 17. https://www.linkedin.com/posts/ihitsuperhuman_interviewexperiences-ml-swe-activity-7276618441170567168-n1HF?utm_source=share&utm_medium=member_desktop 
 - A really good guide to how the industry is asking questions. 2 main standouts: 1.⁠ ⁠C++ seems to be kind of important 2.⁠ ⁠DSA proficiency is a must
 - 
-  8. Check out this book on Goodreads: Machine Learning System Design Interview https://www.goodreads.com/book/show/120532868-machine-learning-system-design-interview
+18. Check out this book on Goodreads: Machine Learning System Design Interview https://www.goodreads.com/book/show/120532868-machine-learning-system-design-interview
   - seems like a good read, I think when the time to switch arrives we'll be quizzed on topics such as these
+19. https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/ Non Interactive ML model
+20. Notes from Group/14. Rag best practices 2407.01219v1.pdf
+    1.  Best RAG Practices Paper
+21. 
