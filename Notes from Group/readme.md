@@ -43,4 +43,4 @@ Notes from Group folder:
 19. https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/ Non Interactive ML model
 20. Notes from Group/14. Rag best practices 2407.01219v1.pdf
     1.  Best RAG Practices Paper
-21. 
+21. https://www.linkedin.com/posts/aniketmish_aiinfra-ai-deeplearning-activity-7278021271127314432-fpcm?utm_source=share&utm_medium=member_android 
