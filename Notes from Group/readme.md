@@ -44,3 +44,12 @@ Notes from Group folder:
 20. Notes from Group/14. Rag best practices 2407.01219v1.pdf
     1.  Best RAG Practices Paper
 21. https://www.linkedin.com/posts/aniketmish_aiinfra-ai-deeplearning-activity-7278021271127314432-fpcm?utm_source=share&utm_medium=member_android 
+22. https://parlance-labs.com/education/ 
+    1.  Has very good educational content on AI such as:
+        1.  LLM Eval
+        2.  LLM on Command line
+        3.  OSS framework for LLM Evals
+        4.  Improvement of RAG
+        5.  etc. Many more, explore it. 
+23. https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
+    1.  Berkeley Compound AI systems. 
