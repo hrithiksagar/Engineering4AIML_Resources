@@ -53,3 +53,5 @@ Notes from Group folder:
         5.  etc. Many more, explore it. 
 23. https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
     1.  Berkeley Compound AI systems. 
+24. https://www.linkedin.com/posts/ujamil_mit-ei-seminar-hyung-won-chung-from-openai-activity-7280155624930217984-gj1y/?utm_source=share&utm_medium=member_android 
+    1.  https://youtu.be/kYWUEV_e2ss - MIT EI seminar, Hyung Won Chung from OpenAI. "**Don't teach. Incentivize.**"
