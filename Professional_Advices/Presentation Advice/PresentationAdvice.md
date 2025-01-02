@@ -28,7 +28,8 @@ https://github.com/zhoubolei/bolei_awesome_posters : CVPR and NeurIPS poster exa
 
 **Powerpoint**
 
-![Untitled](Presentation%20Advice%20502a52252055464c8ed1b62cb60c4bde/Untitled.png)
+![Untitled]
+(Professional_Advices/Presentation Advice/Presentation_Advice/Untitled.png)
 
 **A thread on designing visually appealing slides :** 
 
@@ -55,4 +56,5 @@ Dual Funnel :
 
 [https://twitter.com/rodriguesjm6/status/1476580189316562953](https://twitter.com/rodriguesjm6/status/1476580189316562953)
 
-![Untitled](Presentation%20Advice%20502a52252055464c8ed1b62cb60c4bde/Untitled%201.png)
+![Untitled]
+(Professional_Advices/Presentation Advice/Presentation_Advice/Untitled_1.png)
