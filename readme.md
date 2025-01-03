@@ -1,4 +1,4 @@
-# ML-Notes 📚💻
+# Research4AIML 📚💻
 
 A curated collection of notes, resources, advice, and research papers to help master Machine Learning and related domains. This repository is a result of extensive learning, collaboration, and exploration. It serves as a centralized knowledge base to support personal study, professional growth, and collaborative learning.
 
