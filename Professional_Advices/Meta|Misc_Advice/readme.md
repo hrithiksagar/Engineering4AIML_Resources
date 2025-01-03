@@ -1,10 +1,10 @@
 # Meta/Misc Advice
 
-[Proof You Can Do Hard Things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
+1. [Proof You Can Do Hard Things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
 
-[Advice for Research Students (and others)](https://www.cs.jhu.edu/~jason/advice/)
+2. [Advice for Research Students (and others)](https://www.cs.jhu.edu/~jason/advice/)
 
-[An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+3. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
 There *is* a very good reason to take Calculus. It’s to **prove you can do hard things.**
 
@@ -20,7 +20,7 @@ This is also why **there’s so much survivorship bias and bad advice in the �
 
 But *some* C students are getting C’s because they’re obsessed with other projects. Hard projects. And that obsession with doing hard things lets them blow past their Excellent Sheep peers over time. So if you have a C student who’s obsessed with something hard, you probably don’t have to worry. If they’re getting high and watching TikTok, well…
 
-[Romeen Sheth on Twitter](https://twitter.com/RomeenSheth/status/1686733652766363648)
+- [Romeen Sheth on Twitter](https://twitter.com/RomeenSheth/status/1686733652766363648)
 
 **Everyone should have a north star**
 
@@ -44,9 +44,9 @@ What we don’t see however is the impact of daily decisions that aren’t easil
 
 - This has been a learning for me as I’ve scaled myself as a Leader. The biggest challenge when you’re operating a high growth business is focus; my friend has a simple framework he uses that I love (and stole!). Every company earns the *right* to do a handful of things really well. No more, no less. Inserting constraints forces you to focus, prioritize and spend time on areas that are highest impact and highest leverage.
 
-[https://twitter.com/gregisenberg/status/1694047521234923942](https://twitter.com/gregisenberg/status/1694047521234923942)
+- [https://twitter.com/gregisenberg/status/1694047521234923942](https://twitter.com/gregisenberg/status/1694047521234923942)
 
-[https://twitter.com/gregisenberg/status/1694042416422981736](https://twitter.com/gregisenberg/status/1694042416422981736)
+- [https://twitter.com/gregisenberg/status/1694042416422981736](https://twitter.com/gregisenberg/status/1694042416422981736)
 
 
 ![Untitled](Untitled%201.png)

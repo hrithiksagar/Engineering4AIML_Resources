@@ -10,21 +10,20 @@
 
 ### Resources
 - Jia-Bin Huang’s tips for meetings
+  - [https://twitter.com/jbhuang0604/status/1418407079077842944](https://twitter.com/jbhuang0604/status/1418407079077842944)
 
-[https://twitter.com/jbhuang0604/status/1418407079077842944](https://twitter.com/jbhuang0604/status/1418407079077842944)
+- **Read these tips** about working with your advisor:
+  - [https://github.com/jbhuang0604/awesome-tips/blob/main/working-with-mentor.md](https://github.com/jbhuang0604/awesome-tips/blob/main/working-with-mentor.md)
 
-- **Read these tips** about working with your advisor: [https://github.com/jbhuang0604/awesome-tips/blob/main/working-with-mentor.md](https://github.com/jbhuang0604/awesome-tips/blob/main/working-with-mentor.md)
-- 
-
-[Principles for Productive Group Meetings](https://bounded-regret.ghost.io/principles-for-productive-group-meetings/)
+  - [Principles for Productive Group Meetings](https://bounded-regret.ghost.io/principles-for-productive-group-meetings/)
 
 # How to do experiments?
 
-[https://twitter.com/jbhuang0604/status/1647098218172252160](https://twitter.com/jbhuang0604/status/1647098218172252160)
+- [https://twitter.com/jbhuang0604/status/1647098218172252160](https://twitter.com/jbhuang0604/status/1647098218172252160)
 
 ## Time Management
 
-[Calendar. Not to-do lists.](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
+- [Calendar. Not to-do lists.](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
 
 # Meeting Outline
 

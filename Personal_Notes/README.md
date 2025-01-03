@@ -97,3 +97,12 @@ Other folders:
 26. 16. GAN LSTM RNN CNN architectures 20 Dec 2023.pdf 
     1.  Hand written notes for these topics
 27. 17. Cornell Univ Bias Variance tradeoff.pdf
+28. DSPy
+    1.  CS 194/294-196 (LLM Agents) - Lecture 5, Omar Khattab : https://youtu.be/JEMYuzrKLUw 
+    2.  DSPy in 1 Hour: https://youtu.be/41EfOY0Ldkc
+        1.  Reference 1: https://docs.llamaindex.ai/en/stable/module_guides/deploying/query_engine/modules/ 
+        2.  Reference 2: https://js.langchain.com/docs/use_cases/ - This version is New still needs to be updated by LangChain, for older version refer this: https://js.langchain.com/v0.1/docs/use_cases/ 
+        3.  Reference 3: DSPy Assertions Paper: https://arxiv.org/abs/2312.13382
+        4.  Reference 4: DSPy Paper: https://arxiv.org/abs/2310.03714
+        5.  Reference 5: DSPy Official GitHub Link: https://github.com/stanfordnlp/dspy
+        6.  
