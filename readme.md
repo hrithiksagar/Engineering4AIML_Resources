@@ -69,7 +69,7 @@ Contributions are welcome! If you have resources, insights, or suggestions to sh
 
 ## 📬 Contact
 
-For inquiries or feedback, please reach out via [LinkedIn](https://www.linkedin.com/in/hrithiksagar) or [Email](hrithiksagar36@gmail.com)
+For inquiries or feedback, please reach out via [LinkedIn](https://www.linkedin.com/in/hrithiksagar) or Email @ [hrithiksagar36@gmail.com] 
 
 ---
 
