@@ -9,5 +9,4 @@
   7. Rebuttal Advice
   8. Visualization Advice
   9. Group Meeting Advice
-- These Advices are shared by ***Professor Ravi Kiran*** from IIIT Hyderabad. 
-  - [Personal Page](https://ravika.github.io)
+- These Advices are shared by [***Professor Ravi Kiran***](https://ravika.github.io) from IIIT Hyderabad. 
