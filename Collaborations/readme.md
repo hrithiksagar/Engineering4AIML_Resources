@@ -55,3 +55,5 @@ Notes from Group folder:
     1.  Berkeley Compound AI systems. 
 24. https://www.linkedin.com/posts/ujamil_mit-ei-seminar-hyung-won-chung-from-openai-activity-7280155624930217984-gj1y/?utm_source=share&utm_medium=member_android 
     1.  https://youtu.be/kYWUEV_e2ss - MIT EI seminar, Hyung Won Chung from OpenAI. "**Don't teach. Incentivize.**"
+25. https://gitdiagram.com/ - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram -- https://github.com/ahmedkhaleel2004/gitdiagram - Shared by Professor
+26. If you understand all of this song, you are ready with ML -- https://www.youtube.com/watch?v=DQWI1kvmwRg
