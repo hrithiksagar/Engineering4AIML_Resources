@@ -5,7 +5,7 @@ A curated collection of notes, resources, advice, and research papers to help ma
 
 ## 📂 Repository Structure
 
-### 1. **Professional Advice**
+### 1. **Professional_Advice**
    - **Contents**:
      - Time management strategies for researchers.
      - Writing guidance for academic papers and reports.
@@ -13,7 +13,7 @@ A curated collection of notes, resources, advice, and research papers to help ma
      - Presentation skills for seminars and conferences.
    - **Source**: Insights from PhD advisors and experienced mentors.
 
-### 2. **Personal Study Notes**
+### 2. **Personal_Notes**
    - **Contents**:
      - In-depth notes on topics such as:
        - Transformers
@@ -22,7 +22,7 @@ A curated collection of notes, resources, advice, and research papers to help ma
      - Curated resources and best practices for various Machine Learning subjects.
    - **Purpose**: Documenting individual learning and exploration.
 
-### 3. **Notes_from_Group**
+### 3. **Collaborations**
    - **Contents**:
      - Resources and notes shared by peers from IIIT Hyderabad.
      - Expert insights into specialized domains within Machine Learning.
@@ -34,7 +34,7 @@ A curated collection of notes, resources, advice, and research papers to help ma
      - Resources identified through extensive research and exploration.
    - **Purpose**: Providing access to valuable literature for deeper understanding.
 
-### 5. **Research Papers**
+### 5. **Research_Papers**
    - **Contents**:
      - A collection of significant research papers in Machine Learning.
      - Includes personal annotations and highlights for enhanced comprehension.
