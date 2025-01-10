@@ -8,7 +8,7 @@ Status:
 [x] Part 0
     [x] 0.1: HTML
     [x] 0.2: CSS
-    [ ] 0.3: HTML Forms
+    [x] 0.3: HTML Forms
     [ ] 0.4: New note diagram
     [ ] 0.5: Single page app diagram
     [ ] 0.6: New note in single page app diagram
@@ -114,6 +114,38 @@ In the section [Loading a page containing JavaScript - review](https://fullstack
 The diagram was made as a GitHub Markdown-file using the [Mermaid](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)-syntax, as follows:
 
 ```text
+sequenceDiagram
+    participant browser
+    participant server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+    activate server
+    server-->>browser: HTML document
+    deactivate server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
+    activate server
+    server-->>browser: the css file
+    deactivate server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
+    activate server
+    server-->>browser: the JavaScript file
+    deactivate server
+
+    Note right of browser: The browser starts executing the JavaScript code that fetches the JSON from the server
+
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
+    activate server
+    server-->>browser: [{ "content": "HTML is easy", "date": "2023-1-1" }, ... ]
+    deactivate server
+
+    Note right of browser: The browser executes the callback function that renders the notescopy
+```
+
+if we change the syntax to mermaid the output fore the above code looks like this:
+
+```mermaid
 sequenceDiagram
     participant browser
     participant server
