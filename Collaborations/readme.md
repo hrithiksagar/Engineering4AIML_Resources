@@ -59,4 +59,5 @@ Notes from Group folder:
 26. If you understand all of this song, you are ready with ML -- https://www.youtube.com/watch?v=DQWI1kvmwRg
 27. React and full stack development:
     1.  Fullstackopen.com
-    2.  
+28. https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1
+    1.  Deepseek R1 illustrated
