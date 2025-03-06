@@ -135,11 +135,10 @@ Other folders:
     - https://huggingface.co/stas/ml-engineering-book/blob/main/Stas%20Bekman%20-%20Machine%20Learning%20Engineering.pdf 
     - If you've followed the previous blogs, that I sent, you should be in a good position to understand this, it is a lot more practical guide to training large models. Every, word in the book is pure gold
 40. The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities
-- https://www.arxiv.org/abs/2408.13296
-- 114 pages 
-1.  11. EDA Article from RaviKiran sir
-2.  https://youtu.be/ZaQYM-YF1rM - Yann Dubois: Scalable Evaluation of Large Language Models
-3.  Stanford CS229 Machine Learning Handwritten Notes
+    1.  https://www.arxiv.org/abs/2408.13296 - 114 pages 
+41.  11. EDA Article from RaviKiran sir
+42.  https://youtu.be/ZaQYM-YF1rM - Yann Dubois: Scalable Evaluation of Large Language Models
+43.  Stanford CS229 Machine Learning Handwritten Notes
     - https://www.linkedin.com/posts/devansh-chaudhary-6b8905290_stanford-cs229-handwritten-notes-devansh-activity-7258425308834377728-PxMc?utm_source=share&utm_medium=member_desktop
 4.  Docker AI Stack
     - https://www.docker.com/static/gen-ai-stack-how-to-build-your-own-article.pdf
