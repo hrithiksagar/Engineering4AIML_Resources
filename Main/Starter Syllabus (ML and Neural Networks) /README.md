@@ -1,3 +1,4 @@
+[IMP] Credits: [Special thanks to the creators of this Notion-based syllabus—your work was instrumental in shaping the learning journey behind this repo.](https://broadleaf-marscapone-c6c.notion.site/Starter-Syllabus-ML-and-Neural-Networks-181478e464e746e3937c372985a68510) 
 # Starter Syllabus (ML and Neural Networks)
 
 ## Python
