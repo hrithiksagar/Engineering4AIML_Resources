@@ -182,7 +182,7 @@ https://github.com/raghakot/keras-vis
 
 [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 
-![image.png](Starter%20Syllabus%20(ML%20and%20Neural%20Networks)%201fcc398f30e9806eaeaacd6849b80e42/image.png)
+![image.png](image.png)
 
 Matrix Calculus for Deep Learning : 
 
