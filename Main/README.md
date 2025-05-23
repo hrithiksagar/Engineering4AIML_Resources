@@ -140,6 +140,8 @@ Other folders:
 42.  https://youtu.be/ZaQYM-YF1rM - Yann Dubois: Scalable Evaluation of Large Language Models
 43.  Stanford CS229 Machine Learning Handwritten Notes
     - https://www.linkedin.com/posts/devansh-chaudhary-6b8905290_stanford-cs229-handwritten-notes-devansh-activity-7258425308834377728-PxMc?utm_source=share&utm_medium=member_desktop
+44. Transformers
+    - [Click here for resources page md file](https://github.com/hrithiksagar/Engineering4AIML_Resources/blob/main/Main/Transformers.md)
 4.  Docker AI Stack
     - https://www.docker.com/static/gen-ai-stack-how-to-build-your-own-article.pdf
 5.  https://x.com/deedydas/status/1869948393474404370?t=2pgbfZljg3kgUi9oqwSotQ&s=08
@@ -147,7 +149,7 @@ Other folders:
 6.  https://www.linkedin.com/posts/bastyajayshenoy_genai-and-the-need-for-reinforcement-learning-activity-7275368358374514688-yaUN?utm_source=share&utm_medium=member_desktop
 7.  https://www.linkedin.com/posts/ihitsuperhuman_interviewexperiences-ml-swe-activity-7276618441170567168-n1HF?utm_source=share&utm_medium=member_desktop 
 - A really good guide to how the industry is asking questions. 2 main standouts: 1.⁠ ⁠C++ seems to be kind of important 2.⁠ ⁠DSA proficiency is a must
-- 
+
 1.  Check out this book on Goodreads: Machine Learning System Design Interview https://www.goodreads.com/book/show/120532868-machine-learning-system-design-interview
   - seems like a good read, I think when the time to switch arrives we'll be quizzed on topics such as these
 2.  https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/ Non Interactive ML model
