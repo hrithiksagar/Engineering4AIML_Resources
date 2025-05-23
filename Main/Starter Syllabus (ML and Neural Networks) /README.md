@@ -10,7 +10,7 @@
 
 [Thread by @Sumanth_077 on Thread Reader App](https://threadreaderapp.com/thread/1807415895041753595.html?utm_campaign=topunroll)
 
-[Misc Python Notes](Starter%20Syllabus%20(ML%20and%20Neural%20Networks)%201fcc398f30e9806eaeaacd6849b80e42/Misc%20Python%20Notes%201fcc398f30e981ae8f27ffb5e15e7e27.md)
+[Misc Python Notes](Misc%20Python%20Notes.md)
 
 ### Classical ML with Python
 
