@@ -76,3 +76,5 @@ Planning paper writing
 Your job as a researcher is not only to create new knowledge, but also to communicate it effectively. You cannot persuade your reader that you have done something important if they cannot figure out what you did or why even you think it is important. Bad writing often accompanies muddled thinking. State theses clearly and precisely and you may be able to see where the gaps are that need to be filled in. If your topic is boring, even transparent writing cannot rescue it. But leaden prose may lead many readers to give up on a paper that, written more clearly and precisely, they might find pretty interesting. Moreover, especially early in your career, the reader is unlikely to have a strong commitment to slogging through your writings. If you make the task loathsome, the reader will simply stop. Make life easy for your reader. Help her to identify simply and precisely the contributions of your paper
 
 ![Untitled](Untitled2.png)
+
+- [Planning paper writing](https://deviparikh.substack.com/p/planning-paper-writing-553f497e8839)
