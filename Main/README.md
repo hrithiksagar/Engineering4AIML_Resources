@@ -179,3 +179,5 @@ Other folders:
     1.  Fullstackopen.com
 62. https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1
     1.  Deepseek R1 illustrated
+63. Best blog on Writing Rebuttal: https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1
+64. 
